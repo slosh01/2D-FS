@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<widget id="com.leftgames.2dfs.com" version="0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.leftgames.farmingpixel" version="0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>2d Farm Simulator</name>
 	<description>Seja um Fazendeiro Rico </description>
 	<author email="julioapk.ja@gmail.com">leftgames</author>
